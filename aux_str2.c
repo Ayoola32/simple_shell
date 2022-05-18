@@ -126,3 +126,4 @@ int _isdigit(const char *s)
 			return (0);
 	}
 	return (1);
+}
